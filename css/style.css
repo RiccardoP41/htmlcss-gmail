@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: azure;
+    background-image: url(https://www.sapevatelo.org/wp-content/uploads/2018/04/sfondi-per-desktop-1920x1200-1.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.body {
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.header1 {
+    border-bottom: 2px solid #cc0000;
+    padding: 10px;
+    margin: 0 auto;
+    color: #800000
+}
+
+.header-img {
+    vertical-align: middle;
+}
+
+h1 {
+    display: inline;
+    padding-bottom: 20px;
+}
+.header2 {
+    border-bottom: 2px solid #cc0000;
+    padding: 10px;
+    margin: 0 auto;
+    color: #F8F8FF;
+}
+
+button {
+
+    padding: 0px 10px;
+
+}
+.unread {
+    margin-top: 10px;
+}
+.cerchio{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: #FFD700;
+    border-radius: 50%;
+    color: #B22222;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 5px;
+
+}
+
+.casella {
+    width: "300px";
+    border: 2px solid black;
+    margin: 0 auto;
+    background-color: #DCDCDC;
+    padding-left: 10px;
+}
+
+.chosen {
+    width: "300px";
+    border: 2px solid black;
+    margin: 0 auto;
+    background-color: #F8F8FF;
+    padding-left: 10px;
+}
+
+.testo-email {
+    color: #708090;
+}
+main {
+    border-bottom: 2px solid #cc0000;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+footer {
+    font-family: 'Chelsea Market', cursive;
+    padding-top: 20px;
+    text-align: center;
+    color: #F8F8FF;
+}
+
+.chiusura {
+    display: inline;
+    font-family:'Anton', sans-serif;
+    font-size: 25px
+}
